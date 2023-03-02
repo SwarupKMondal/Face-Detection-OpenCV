@@ -2,4 +2,8 @@
 
 It is a face detection project using OpenCV. I have used haar classifier for detecting the face.
 
-Technology Used: OpenCV, Python
+## Technology Used
+
+**Python** <br>
+**OpenCv** <br>
+
