@@ -5,5 +5,5 @@ It is a face detection project using OpenCV. I have used haar classifier for det
 ## Technology Used
 
 **Python** <br>
-**OpenCv** <br>
+**OpenCV** <br>
 
